@@ -10,8 +10,8 @@ If you get a permission error, run "chmod +x xc.sh", then it should work. If the
 Anyway, I gotta work on an english assignment that is due in 6 hours so... Have fun with my """"app"""! Thanks for using!
 
 
-Change Log:
-  V.3:
+Change Log:\n
+  V.3:\n
     Made it so opening files in vim works
     Removed support for nano, I couldn't be bothered. Sorry, this is kinda an abandoned project (I just wanted to finish it fof V3)
     Added some things to make it look better when you create files
