@@ -5,7 +5,7 @@ I just wanted to do this for fun.
 To run write "./xc.sh" without the quotes, of course. This will show a thing directing you to the help page, and you can do whatever from there.
 
 IMPORTANT:
-If you get a permission error, run "chmod +x xc.sh", then it should work. If there are any other problems please tell me in the Discussions tab, I'm gonna activly update this just cuz.
+If you get a permission error, run "chmod +x xc.sh", then it should work. If there are any other problems please tell me in the Discussions tab, I'm gonna actively update this just cuz.
 
 Anyway, I gotta work on an english assignment that is due in 6 hours so... Have fun with my """"app"""! Thanks for using!
 
